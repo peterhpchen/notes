@@ -7,3 +7,7 @@
 ## deploy
 
 - docker: https://nextjs.org/docs/pages/building-your-application/deploying#docker-image
+
+## 重新導入頁面
+
+- 使用 next.config.js 中的 redirects ： https://nextjs.org/docs/pages/api-reference/next-config-js/redirects
