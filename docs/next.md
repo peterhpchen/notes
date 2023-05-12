@@ -11,3 +11,10 @@
 ## 重新導入頁面
 
 - 使用 next.config.js 中的 redirects ： https://nextjs.org/docs/pages/api-reference/next-config-js/redirects
+
+## 埋入 GA
+
+- 使用 next/script 埋入： https://www.makeuseof.com/nextjs-google-analytics/
+- 額外的 gtag event 登記：
+  - https://mariestarck.com/add-google-analytics-to-your-next-js-application-in-5-easy-steps/
+  - https://developers.google.com/analytics/devguides/collection/gtagjs/events?hl=zh-tw
